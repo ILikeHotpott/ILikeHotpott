@@ -8,6 +8,7 @@ I'm Yitong, a passionate software developer from China, currently studying in Un
 
 - 🌱 I’m currently learning: React, Distributed System, Secure Software Engineering, Introduction to Statistical Machine Learning.
 - 💪 I'm currently working on rewriting the frontend of my project using React and Next UI.
+- Favourite songs: [![Favourite Songs](https://img.shields.io/badge/Favourite%20Songs-MusicTop-orange)](https://www.music-top.com/playlist/13/)
 
 
 ## 🛠️ Skills and Tools
