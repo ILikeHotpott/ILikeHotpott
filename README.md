@@ -6,7 +6,7 @@ I'm Yitong, a passionate software developer from China, currently studying in Un
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: React, Distributed system, Secure software engineering, Introduction to Statistical Machine Learning.
+- 🌱 I’m currently learning: React, Distributed System, Secure Software Engineering, Introduction to Statistical Machine Learning.
 - 💪 I'm currently working on rewriting the frontend of my project using React and Next UI.
 
 
