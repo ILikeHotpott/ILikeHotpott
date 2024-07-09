@@ -20,7 +20,8 @@ I'm Yitong, a passionate software developer from China, currently studying in Un
 
 ## 🌟 Projects
 
-### [MusicTop](https://github.com/ILikeHotpott/MusicSite)
+### Repostory: [MusicTop](https://github.com/ILikeHotpott/MusicSite)
+### Website: [MusicTop](https://www.music-top.com)
 
 This is my music website project. What I want to do is to create a social platform based on music charts, allowing users to quickly find and escape the frustration of finding good songs. This is my first formal personal project, and I attach great importance to it. The initiation of this project combines my love for music, my passion for programming, and my past dreams of creating a secondary ticketing website. I want to build it into a comprehensive social website, launch it, and continue to operate it.
 
