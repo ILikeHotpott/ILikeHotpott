@@ -8,8 +8,6 @@ I'm Yitong, a passionate software developer from China, currently studying in Un
 
 - 🌱 I’m currently learning: React, Distributed system, Secure software engineering, Introduction to Statistical Machine Learning.
 - 💪 I'm currently working on rewriting the frontend of my project using React and Next UI.
-- 📫 How to reach me: yitong1210@gmail.com
-
 
 
 ## 🛠️ Skills and Tools
@@ -29,6 +27,7 @@ This is my music website project. What I want to do is to create a social platfo
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yitong-liu-0239552b4/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yitong-liu-0239552b4/)](https://www.linkedin.com/in/yitong-liu-0239552b4/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yitong1210@gmail.com)](mailto:yitong1210@gmail.com)
 
 Thanks for stopping by! Have a great day! 😊
