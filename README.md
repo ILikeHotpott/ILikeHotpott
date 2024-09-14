@@ -1,6 +1,6 @@
 # Hello there! 
 
-I'm Yitong, a passionate software developer from China, currently studying in the University of Adelaide.
+I'm Yitong, a passionate full stack developer, currently studying Computer Science in the University of Adelaide.
 
 
 
