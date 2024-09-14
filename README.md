@@ -13,7 +13,7 @@ I'm Yitong, a passionate software developer from China, currently studying in th
 
 ## 🛠️ Skills and Tools
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--javascript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/catppuccin--javascript-react.svg" alt="React" width="40" height="40"/>
   <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/ri--nextjs-fill.svg" alt="Next.js" width="40" height="40"/>
