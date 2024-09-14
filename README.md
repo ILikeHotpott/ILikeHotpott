@@ -1,6 +1,6 @@
 # Hello there! 
 
-I'm Yitong, a passionate full stack developer, currently studying Computer Science in the University of Adelaide.
+I'm Yitong, a passionate software developer from China, currently studying in the University of Adelaide.
 
 
 
@@ -15,20 +15,21 @@ I'm Yitong, a passionate full stack developer, currently studying Computer Scien
 
 <table>
   <tr>
+    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--javascript.svg" alt="JavaScript" width="40" height="40"/></td>
     <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/catppuccin--javascript-react.svg" alt="React" width="40" height="40"/></td>
-    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/devicon--redis.svg" alt="Redis" width="40" height="40"/></td>
-    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--django-icon.svg" alt="Django" width="40" height="40"/></td>
-    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--python.svg" alt="Python" width="40" height="40"/></td>
     <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/ri--nextjs-fill.svg" alt="Next.js" width="40" height="40"/></td>
+    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--python.svg" alt="Python" width="40" height="40"/></td>
+    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--django-icon.svg" alt="Django" width="40" height="40"/></td>
+    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--java-light.svg" alt="Java" width="40" height="40"/></td>
+    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--mysql-light.svg" alt="MySQL" width="40" height="40"/></td>
+    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/devicon--redis.svg" alt="Redis" width="40" height="40"/></td>
     <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--aws-light.svg" alt="AWS" width="40" height="40"/></td>
     <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--docker.svg" alt="Docker" width="40" height="40"/></td>
-    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--java-light.svg" alt="Java" width="40" height="40"/></td>
-    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--javascript.svg" alt="JavaScript" width="40" height="40"/></td>
-    <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--mysql-light.svg" alt="MySQL" width="40" height="40"/></td>
     <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--graphql.svg" alt="GraphQL" width="40" height="40"/></td>
     <td><img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--nginx.svg" alt="Nginx" width="40" height="40"/></td>
   </tr>
 </table>
+
 
 ## 🌟 Projects
 
