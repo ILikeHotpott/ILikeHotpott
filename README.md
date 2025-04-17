@@ -31,8 +31,6 @@ I'm Yitong, a passionate full stack developer, currently studying Computer Scien
 
 ### 1. Project1: [MusicTop](https://github.com/ILikeHotpott/MusicSite)
 
-### Website: [![MusicTop](https://img.shields.io/badge/-MusicTop-FF7139?style=flat-square&logo=Google%20Chrome&logoColor=white&link=http://www.music-top.com)](http://www.music-top.com)
-
 ![My GIF](https://github.com/ILikeHotpott/assets/blob/main/gifs/mygif.gif)
 
 This is my music website project. What I want to do is to create a social platform based on music charts, allowing users to quickly find and escape the frustration of finding good songs. This is my first formal personal project, and I attach great importance to it. The initiation of this project combines my love for music, my passion for programming, and my past dreams of creating a secondary ticketing website. I want to build it into a comprehensive social website, launch it, and continue to operate it.
