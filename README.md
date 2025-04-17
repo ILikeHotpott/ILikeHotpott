@@ -40,7 +40,7 @@ This is my music website project. What I want to do is to create a social platfo
 
 This chatbot was developed specifically for my parents, as I wanted them to experience the convenience of modern technology. Due to the Great Firewall in China, they were unable to use ChatGPT directly. To overcome this limitation, I spent two days developing a simple chatbot using the ChatGPT API. The website is straightforward and provides basic chat functionality, allowing them to easily access and use it without any technical barriers.
 
-![Chatbot Image](https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/WechatIMG346.jpg)
+![Chatbot Image](https://github.com/ILikeHotpott/assets/blob/main/pics/WechatIMG346.png)
 
 
 
