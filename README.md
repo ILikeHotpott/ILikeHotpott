@@ -14,18 +14,18 @@ I'm Yitong, a passionate full stack developer, currently studying Computer Scien
 ## 🛠️ Skills and Tools
 
 <div style="display: flex; gap: 50px;">
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/catppuccin--javascript-react.svg" alt="React" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--django-icon.svg" alt="Django" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--java-light.svg" alt="Java" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--mongodb.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--mysql-light.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/devicon--redis.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--aws-light.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/skill-icons--docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--graphql.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://musictop-bucket.s3.ap-southeast-2.amazonaws.com/media/logos--nginx.svg" alt="Nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/redis.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/aws.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/nginx.svg" alt="Nginx" width="40" height="40"/>
 </div>
 
 
