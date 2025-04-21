@@ -14,13 +14,13 @@ I'm Yitong, a passionate full stack developer, currently studying Computer Scien
 ## 🛠️ Skills and Tools
 
 <div style="display: flex; gap: 50px;">
-  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/react.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/python.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/django.svg" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/langchain.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/react.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/nextjs.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/aws.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ILikeHotpott/assets/main/logos/docker.svg" alt="Docker" width="40" height="40"/>
 </div>
